@@ -18,7 +18,8 @@ Right now we're working on a charter.  See charter.md for details.
 ## Contributions
 
 Contributions to this repository are welcome under the standard IETF
-"Note Well" clause as presented below.
+"Note Well" clause as presented below.  Discussion primarily takes place on
+[mod-discuss@ietf.org](https://mailman3.ietf.org/mailman3/lists/mod-discuss.ietf.org/).
 
 # Note Well
 
