@@ -27,11 +27,11 @@ The WG  will clarify how the moderation role and associated procedures interact 
 
 As a starting point, the working group will consider draft-ecahc-moderation and draft-lear-bcp38-replacement and associated discussions.  An eventual proposal for the working group can be based on adopting aspects from these inputs or from a new approach.
 
-The revising or redefining of related Ombudsteam policies or practices (e.g., RFC7776) or the IETF Guidelines for Conduct (RFC7154) is out of scope.
+The revising or redefining of related Ombudsteam policies or practices such as RFC7776, Sections 1 and 2 of RFC 9245, or the IETF Guidelines for Conduct (RFC7154) is out of scope.
 
 ## Deliverables
 
-At a minimum, the working group will update or obsolete BCP83, and may update or obsolete other related RFCs such as BCP45.  The group is expected to use as many modes of communication as well as interim meetings to bring this work to conclusion with alacrity, if at all possible.
+At a minimum, the working group will update or obsolete BCP83, and may update or obsolete other related RFCs such as BCP45.
 
 ## Milestones
 
