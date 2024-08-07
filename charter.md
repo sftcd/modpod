@@ -12,9 +12,9 @@ The IETF has a number of processes to address moderation of participants in non-
 
 ## Scope of Work
 
-The MODPOD work group will revise existing and define a new moderation authority suitable for all IETF communication channels.  The approaches the WG defines will:
+The MODPOD work group will revise existing and define new moderation procedures suitable for all IETF communication channels.  The approaches the WG defines will:
 
-- Ensure that consistent moderation authorities exist for all channels/forums in the IETF
+- Aim to ensure that consistent moderation procedures exist for all channels/forums in the IETF
 - Clarify who can take moderation actions on a per channel/forum basis, how they are selected and the terms of their service, and the authority afforded to them
 - Clarify who can initiate or propose a moderation action
 - Balance the need between privacy and dignity of individuals involved with the need for transparency.
@@ -23,7 +23,7 @@ The MODPOD work group will revise existing and define a new moderation authority
 - Enable the use of more consistent moderation actions across channels/forums
 - Have a clear, consistent, and efficient path for appeal
 
-The WG  will clarify how the moderation role and associated authority interact or overlap with other roles such as working group chairs and the IETF Ombudsteam.
+The WG  will clarify how the moderation role and associated procedures interact or overlap with other roles such as working group chairs and the IETF Ombudsteam.
 
 As a starting point, the working group will consider draft-ecahc-moderation and draft-lear-bcp38-replacement and associated discussions.  An eventual proposal for the working group can be based on adopting aspects from these inputs or from a new approach.
 
