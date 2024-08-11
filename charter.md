@@ -6,11 +6,12 @@ We are all human and sometimes discussions take a bad turn.
 
 The IETF has a number of processes to address moderation of participants in non-face-to-face venues (e.g., RFC3934, RFC9245, BCP83, and “IESG Statement of Disruptive Posting”) in response to behavior which violates the IETF guidelines for conduct (RFC7154).  Experience implementing moderation in the IETF has found:
 
+- that BCP83 has led to substantial strife within the community; 
 - Inconsistency between working group and plenary lists policies;
 - A lack of defined policies for forums beyond email (e.g., chat, wikis);
 - Inconsistent application of existing policies due to community disagreement on the thresholds for reacting to disruptive behavior
 - Application of RFC3934 or posting-rights action (BCP83) to be perceived as cumbersome, slow, making it ill-suited to situations that escalate quickly;
-- BCP83 is the only remedy for disruptive behavior spanning multiple mailing lists; and substantial strife in the community when BCP83 is used.
+
 
 ## Scope of Work
 
