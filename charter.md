@@ -39,5 +39,5 @@ At a minimum, the working group will update or obsolete BCP83, and may update or
 
 ## Milestones
 
-- October 2024	WG adoption of one or more drafts
-- March 2025 WGLC
+- March 2025 WG adoption of one or more drafts
+- November 2025 WGLC
